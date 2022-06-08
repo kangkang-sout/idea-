@@ -8,6 +8,8 @@ public class test01 {
 
         System.out.println("new new");
 
+        System.out.println("6月8号下午");
+
     }
 
 
