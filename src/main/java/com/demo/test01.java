@@ -6,6 +6,8 @@ public class test01 {
 
         System.out.println("new");
 
+        System.out.println("new new");
+
     }
 
 
